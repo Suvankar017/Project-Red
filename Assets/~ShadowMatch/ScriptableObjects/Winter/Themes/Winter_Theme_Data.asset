@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c2068ea3f2aa545a48e5d58c5f4497, type: 3}
+  m_Name: Winter_Theme_Data
+  m_EditorClassIdentifier: 
+  skyColor: {r: 0.63529414, g: 0.9764706, b: 1, a: 0}
+  themePrefab: {fileID: 3950188813927843728, guid: 68542356e5b2c254692c697c955de05d, type: 3}
+  puzzleArray:
+  - {fileID: 9191038086237076904, guid: 95d8022c8fb33964b9bc4e4b54ce3b58, type: 3}
+  - {fileID: 9191038086237076904, guid: 2ad09ffac628394468f6b1dcd52de865, type: 3}

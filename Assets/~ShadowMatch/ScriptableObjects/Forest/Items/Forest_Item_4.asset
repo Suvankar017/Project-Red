@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf50f25d5291e349948ee3942adac6f, type: 3}
+  m_Name: Forest_Item_4
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 6682891807012889136, guid: 183ea17fa171be94eac4a30271e4b50e, type: 3}
+  slotPrefab: {fileID: 3744411179239609354, guid: b3640ad329f9bfd4fbd1706ad2ac1559, type: 3}
+  itemUIPrefab: {fileID: 3563328482276061417, guid: bf088a2fedbc9c34aa688450e29288e4, type: 3}

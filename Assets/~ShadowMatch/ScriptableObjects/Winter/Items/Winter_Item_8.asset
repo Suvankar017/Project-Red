@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf50f25d5291e349948ee3942adac6f, type: 3}
+  m_Name: Winter_Item_8
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 6682891807012889136, guid: 7c7f0c8b178d8f9409eb74ea8348c38d, type: 3}
+  slotPrefab: {fileID: 3744411179239609354, guid: bd722e0cf4caa5e4b81d9887d1cf73d4, type: 3}
+  itemUIPrefab: {fileID: 4018759613278312481, guid: fb2f3400e0169e24a972fd4a3bf5094f, type: 3}
